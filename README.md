@@ -1,5 +1,3 @@
-# Технологии распределенной обработки данных
+# 2026/2027 Технологии распределенной обработки данных (очная)
 
-Distributed Data Processing Technologies
-
-[DDPT-2026 — описание курса и материалы](COURSE.md).
+## Distributed Data Processing Technologies
